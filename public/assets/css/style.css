@@ -1,0 +1,31 @@
+html{
+ height:100%;
+}
+
+body{
+  background-image:url("https://images.ctfassets.net/7h71s48744nc/4st2pp5aNW8uScKyOi2U4q/ff27e865b3c36ba5e7bad7e259d0d128/bobs-burgers-review-image.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+background-position: bottom;
+
+
+}
+h1,h2{
+  color:red;
+  font-weight: bold;
+}
+
+.header {
+  margin-top: 20px;
+  border-radius: 15px;
+}
+
+.textCenter{
+  text-align: center;
+}
+
+.panel{
+  background-color: #f4f4f4;
+  border-radius: 15px;
+  padding: 20px;
+}
